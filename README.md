@@ -1,6 +1,7 @@
 ### Hi there 👋
+Hi, I'm ~~Spongey~~***Spongey***__Spongey__~~_SPONGEY_~~
 
-Oh hey I make Discord Bots. Maybe check me out cause yes. I mainly use [discord.js](https://discordjs.org), and I just started using [Eris](https://abal.moe/Eris) because [@auguwu](https://github.com/auguwu) and [@DonovanDMC](https://github.com/DonovanDMC) said it was good idea. It was actually a good idea because I barely had to code anything, but I wasn't used to it that much. It's fine but, you know, errors.
+https://user-images.githubusercontent.com/71215126/153981975-a6ccd605-8438-4b92-a5c9-711180c51723.mp4
 
 
 #### Stats
