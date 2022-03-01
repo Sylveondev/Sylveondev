@@ -7,7 +7,7 @@ https://user-images.githubusercontent.com/71215126/153981975-a6ccd605-8438-4b92-
 #### Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Spongeyboi&count_private=true&show_icons=true&theme=onedark)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Spongeyboi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### Fnf plush
