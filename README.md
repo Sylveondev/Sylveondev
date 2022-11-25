@@ -1,17 +1,19 @@
-### Hi there 👋
-Hi, I'm ~~Spongey~~***Spongey***__Spongey__~~_SPONGEY_~~
-
-https://user-images.githubusercontent.com/71215126/153981975-a6ccd605-8438-4b92-a5c9-711180c51723.mp4
-
+#### Hiii, I'm sylveondev
+![It's Eevee Basically](https://media.discordapp.net/attachments/1007629747838271488/1045767932443099136/ctp1yv.jpg)
 
 #### Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Spongeyboi&count_private=true&show_icons=true&theme=onedark)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Spongeyboi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sylveondev&count_private=true&show_icons=true&theme=onedark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sylveondev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+### Hey you, I know you're hacking
+![Hold hand](https://media.discordapp.net/attachments/1007629747838271488/1045767932694761482/-ja62c3.jpg)
+Oh won't you make fnf mods with me?
+
+![Furry feet in tub](https://media.discordapp.net/attachments/1007629747838271488/1045767932136919120/pj0HueFAImMYtQT7itPwPNC4A7NjbJBkF7UFRGmEmjQ.jpg)
 
 ### Fnf plush
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK6r2rQvrH0D3_wYVUp6oS9iiYkG5eeWjV9g&usqp=CAU)
+![Plush](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK6r2rQvrH0D3_wYVUp6oS9iiYkG5eeWjV9g&usqp=CAU)
 
 ### Spongebob personas
 ![spongebob10](https://user-images.githubusercontent.com/71215126/156209397-6edcbe86-0db9-4db7-916c-d05b83bb8ec4.png)
@@ -25,17 +27,3 @@ https://user-images.githubusercontent.com/71215126/153981975-a6ccd605-8438-4b92-
 ![spongebob](https://user-images.githubusercontent.com/71215126/156209411-09c306f4-841d-4492-b2a7-722dc71a0e5c.png)
 ![spongebob2](https://user-images.githubusercontent.com/71215126/156209413-9a08ed46-d401-40de-bd06-a7c5ec23d7f1.png)
 ![spongebob1](https://user-images.githubusercontent.com/71215126/156209414-fd534116-40f6-40dc-b7ee-309036916523.png)
-
-### Bruuuuuh damn no way wtf
-<img src="https://i1.sndcdn.com/avatars-GnwDbVG6XlmsRfUa-Cq2MZw-t500x500.jpg" width="250px">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeT2WVUcGKOxK1wavUBzXSoGuibaBValaBsw&usqp=CAU" width="250px">
-
-
-### 
-
-### Contact me
-
-> I am on [blue bird site](https://twitter.com/spongebob7989b).
-> I own purple [wumpus](https://discord.gg/uVuPySdwhd) server as well.
-> I own a white button inside of red rectangle [channel](https://www.youtube.com/channel/UCgMhECTVMMx952ixL2I3J-Q).
-> Email me at [spongebob7989a@gmail.com](mailto:spongebob7989@gmail.com).
