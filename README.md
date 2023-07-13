@@ -1,10 +1,15 @@
 #### Hiii, I'm sylveondev
 ![It's Eevee Basically](https://media.discordapp.net/attachments/1007629747838271488/1045767932443099136/ctp1yv.jpg)
 
+I'm most known for making the [Pokehell](sylveondev/pokehell-fnf) fnf mod. You can view my website [here](https://sylveondev.github.io/) for my socials. 
+
 #### Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sylveondev&count_private=true&show_icons=true&theme=onedark)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sylveondev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+Everything below here are joke stuff. Don't take this seriously. 
+<lr>
 
 ### Hey you, I know you're hacking
 ![Hold hand](https://media.discordapp.net/attachments/1007629747838271488/1045767932694761482/-ja62c3.jpg)
