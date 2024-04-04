@@ -14,11 +14,8 @@ Everything below here are joke stuff. Don't take this seriously.
 
 ### Hey you, I know you're hacking
 ![Hold hands](https://github.com/Sylveondev/Sylveondev/assets/71215126/661bd5e1-6866-4a24-81f6-3549967e4619)
-
-Oh won't you make fnf mods with me?
-
-![Furry feet in tub](https://github.com/Sylveondev/Sylveondev/assets/71215126/2c6b7007-fadb-4db9-9e92-2636ec70d891)
-Sadly my fursuit ain't right anymore.
+<img src="https://github.com/Sylveondev/Sylveondev/assets/71215126/2c6b7007-fadb-4db9-9e92-2636ec70d891" height="320px" alt="Furry feet in tub">
+<br />Oh won't you make fnf mods with me?
 
 ### Fnf plush
 ![Plush](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK6r2rQvrH0D3_wYVUp6oS9iiYkG5eeWjV9g&usqp=CAU)
