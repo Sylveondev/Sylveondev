@@ -1,5 +1,6 @@
 #### Hiii, I'm sylveondev
-![It's Eevee Basically](https://media.discordapp.net/attachments/1007629747838271488/1045767932443099136/ctp1yv.jpg)
+![It's eevee basically](https://github.com/Sylveondev/Sylveondev/assets/71215126/56480e15-57cf-433a-82d4-dd88fb305696)
+
 
 I'm most known for making the [Pokehell](sylveondev/pokehell-fnf) fnf mod. You can view my website [here](https://sylveondev.github.io/) for my socials. 
 
@@ -12,10 +13,12 @@ Everything below here are joke stuff. Don't take this seriously.
 <lr>
 
 ### Hey you, I know you're hacking
-![Hold hand](https://media.discordapp.net/attachments/1007629747838271488/1045767932694761482/-ja62c3.jpg)
+![Hold hands](https://github.com/Sylveondev/Sylveondev/assets/71215126/661bd5e1-6866-4a24-81f6-3549967e4619)
+
 Oh won't you make fnf mods with me?
 
-![Furry feet in tub](https://media.discordapp.net/attachments/1007629747838271488/1045767932136919120/pj0HueFAImMYtQT7itPwPNC4A7NjbJBkF7UFRGmEmjQ.jpg)
+![Furry feet in tub](https://github.com/Sylveondev/Sylveondev/assets/71215126/2c6b7007-fadb-4db9-9e92-2636ec70d891)
+Sadly my fursuit ain't right anymore.
 
 ### Fnf plush
 ![Plush](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK6r2rQvrH0D3_wYVUp6oS9iiYkG5eeWjV9g&usqp=CAU)
