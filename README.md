@@ -1,26 +1,28 @@
-#### Hiii, I'm sylveondev
+### Hiii, I'm sylveondev
+I'm a game and web server developer. Formerly named Spongebob7989b, and Spongey. I'm most known for making the [Pokehell](sylveondev/pokehell-fnf) fnf mod and the [PhoenixBot](team-custard/phoenixbot) Discord bot. I spend my time just thinking of what I should develop. My super boring website is riiight [here](https://sylveondev.xyz/).<br>
+Compared to everyone else I'm an amateur at a lot of stuff. Though I do think I'm pretty decent at Javascript and visual C#, so I usually code in those languages.<br>
+You can check out some of my projects in the pins, thank you for checking out my Github page.<br>
 ![It's eevee basically](https://github.com/Sylveondev/Sylveondev/assets/71215126/56480e15-57cf-433a-82d4-dd88fb305696)
 
+### Donations
+Donations help me run my services and pay my bills. Click the sponsor button on the side to help. Thank you <3.
 
-I'm most known for making the [Pokehell](sylveondev/pokehell-fnf) fnf mod. You can view my website [here](https://sylveondev.github.io/) for my socials. 
-
-#### Stats
+### Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sylveondev&count_private=true&show_icons=true&theme=onedark)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sylveondev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-Everything below here are joke stuff. Don't take this seriously. 
+### Everything below this line are jokes.
+I got bored while typing this so I decided to have fun.
 <lr>
 
-### Hey you, I know you're hacking
+#### Hey you, I know you're hacking
 ![Hold hands](https://github.com/Sylveondev/Sylveondev/assets/71215126/661bd5e1-6866-4a24-81f6-3549967e4619)
 <img src="https://github.com/Sylveondev/Sylveondev/assets/71215126/2c6b7007-fadb-4db9-9e92-2636ec70d891" height="320px" alt="Furry feet in tub">
 <br />Oh won't you make fnf mods with me?
 
-### Fnf plush
-![Plush](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK6r2rQvrH0D3_wYVUp6oS9iiYkG5eeWjV9g&usqp=CAU)
-
-### Spongebob personas
+#### Spongebob personas
+Don't worry, I regret making this. I was an interesting specimen back then.<br>
 ![spongebob10](https://user-images.githubusercontent.com/71215126/156209397-6edcbe86-0db9-4db7-916c-d05b83bb8ec4.png)
 ![spongebob9](https://user-images.githubusercontent.com/71215126/156209399-0cc5e145-6e39-4f35-a6e6-969cdd9dbbfe.png)
 ![spongebob8](https://user-images.githubusercontent.com/71215126/156209400-6dbe608b-fab0-4842-bb6a-6f63d2aff60d.png)
