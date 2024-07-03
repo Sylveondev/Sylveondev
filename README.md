@@ -7,6 +7,9 @@ You can check out some of my projects in the pins, thank you for checking out my
 ### Donations
 Donations help me run my services and pay my bills. Click the sponsor button on the side to help. Thank you <3.
 
+### My status
+![](https://discord.c99.nl/widget/theme-1/763631377152999435.png)
+
 ### Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sylveondev&count_private=true&show_icons=true&theme=onedark)
